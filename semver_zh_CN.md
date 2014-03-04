@@ -131,7 +131,9 @@ FAQ
 
 创用CC 姓名标示3.0 Unported 授权条款http://creativecommons.org/licenses/by/3.0/
 
-> 由谷歌翻译从繁体版本(zh-TW)转换而来，略作修改
+
+
+> 注：由谷歌翻译从繁体版本(zh-TW)转换而来，略作修改
 * 版號=>版本号
 * 資訊=>信息
 * 程式=>程序
