@@ -1,8 +1,7 @@
 语义化版本号规范的简体中文版本
 ============
 
-
-[点此](https://github.com/Wayou/semver_zh_CN/blob/master/semver_zh_CN.md)查看详细。
+此中文分支已经被采纳合并，请访问[官方网站](http://semver.org/lang/zh-CN/)进行阅读。
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Wayou/semver_zh_cn/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
