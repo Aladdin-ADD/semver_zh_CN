@@ -17,7 +17,7 @@ to the MAJOR.MINOR.PATCH format.
 Introduction
 ------------
 
-In the world of software management there exists a dread place called
+In the world of software management there exists a dreaded place called
 "dependency hell." The bigger your system grows and the more packages you
 integrate into your software, the more likely you are to find yourself, one
 day, in this pit of despair.
@@ -310,6 +310,15 @@ that users can smoothly transition to the new API.
 No, but use good judgment. A 255 character version string is probably overkill,
 for example. Also, specific systems may impose their own limits on the size of
 the string.
+
+### Is "v1.2.3" a semantic version?
+
+No, "v1.2.3" is not a semantic version. However, prefixing a semantic version
+with a "v" is a common way (in English) to indicate it is a version number.
+Abbreviating "version" as "v" is often seen with version control. Example:
+`git tag v1.2.3 -m "Release version 1.2.3"`, in which case "v1.2.3" is a tag
+name and the semantic version is "1.2.3".
+
 
 About
 -----
