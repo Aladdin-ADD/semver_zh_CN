@@ -91,7 +91,7 @@ A：没有，请自行做适当的判断。举例来说，一个长度为255个�
 
 语义化版本控制的规范是由 Gravatars 创始人兼 GitHub 联合创始人之一的 [Tom Preston-Werner](http://tom.preston-werner.com/) 所起草的。
 
-如果您有任何建议，请 [open an issue on GitHub](https://github.com/mojombo/semver/issues)。
+如果您有任何建议，[请到 GitHub 上提出您的问题](https://github.com/mojombo/semver/issues)。
 
 ### 授权
 
